@@ -1,0 +1,48 @@
+# Datasets
+*.csv
+*.xlsx
+*.xls
+*.db
+*.sqlite
+*.sqlite3
+*.parquet
+*.json
+*.jsonl
+*.arff
+*.dat
+*.tsv
+*.h5
+*.hdf5
+*.pickle
+*.pkl
+*.feather
+
+# Archives with datasets
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.rar
+*.7z
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+.directory
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Virtual environments
+venv/
+env/
+.venv/
